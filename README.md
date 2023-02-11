@@ -1,1 +1,3 @@
-# portfoliolahari
+# Sample Repo
+
+Hi,this is my sample repo
